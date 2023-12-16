@@ -23,6 +23,7 @@ Asegúrate de tener Node.js y npm instalados en tu sistema antes de continuar.
 3. Instala las dependencias:
    ```bash
    npm install
+   npm install @ionic/cli
 
 4. Ejecutar la aplicación
    ```bash
